@@ -6,7 +6,7 @@ ZooKeeper is a high-performance coordination service for distributed application
 
 ZooKeeper的数据模型
 
-ZooKeeper拥有一个很像分布式文件系统的树型命名空间。两者间的唯一区别就是Zookeeper的节点可以有关联的数据孩子节点。
+ZooKeeper拥有一个很像分布式文件系统的树型命名空间。两者间的唯一区别就是Zookeeper的节点可以有关联的数据孩子节点。 Paths to nodes are always expressed as canonical, absolute, slash-separated paths
 
 ZooKeeper Sessions
 
