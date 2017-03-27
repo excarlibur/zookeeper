@@ -20,11 +20,7 @@ The null character \(\u0000\) cannot be part of a path name. \(This causes probl
 
 ZNodes
 
-在Zookeeper树上的结点，一般称之为znode. Znodes保持了一个包含数据变化版本号状态结构及 访问控制列表变化。
-
-
-
-
+在Zookeeper树上的结点，一般称之为znode. Znodes保持了一个包含数据变化版本号和时间戳状态结构及 访问控制列表变化。
 
 ZooKeeper Sessions
 
