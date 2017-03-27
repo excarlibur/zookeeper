@@ -6,6 +6,8 @@ ZooKeeper is a high-performance coordination service for distributed application
 
 ZooKeeper的数据模型
 
+ZooKeeper拥有一个很像分布式文件系统的树型命名空间
+
 ZooKeeper Sessions
 
 Zookeeper Watches
