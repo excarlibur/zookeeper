@@ -22,7 +22,7 @@ ZNodes
 
 在Zookeeper树上的结点，一般称之为znode. Znodes保持了一个包含数据变化版本号和时间戳数据结构\(Stat Structure\)及访问控制列表变化。版本号和时间戳让Zookeeper可以验证缓存以及协调更新。每当某个znode的数据变化，它的数据版本号也将增加。
 
-znodes的特征:
+znodes的特征:Watches,Data Access,Ephemeral Nodes,Sequence Nodes
 
 ZooKeeper Sessions
 
