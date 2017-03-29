@@ -38,7 +38,7 @@ ZooKeeper的工作原理
 
 Zookeeper的核心是原子广播，这个机制保证 各个Server之间的同步。时间这个机制协议叫ZAB协议。
 
-
+ZAB\(Zookeeper Atomic Broadcast\)全称为原子消息广播协议。
 
 curator zookeeper第三方客户端
 
