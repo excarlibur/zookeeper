@@ -34,5 +34,9 @@ Zookeeper Watches
 
 Consistency Guarantees
 
+ZooKeeper的工作原理
+
+Zookeeper的核心是原子广播，这个机制保证 各个Server之间的同步。时间这个机制协议叫Zab协议。
+
 curator zookeeper第三方客户端
 
